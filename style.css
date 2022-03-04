@@ -1,0 +1,52 @@
+.container{
+    width: 100%;
+    height: 400px;
+}
+#head1{
+    color: rgb(3, 2, 15);
+    padding-left: 100px;
+}
+#head2{
+    color:rgb(25, 0, 255);
+    padding-left: 500px;
+    font-weight:600;
+}
+.header{
+    width:100%;
+    height:50px;
+    background: #ffffff;
+}
+.left-div{
+background: rgb(255, 255, 255);
+width:20%;
+height:400px;
+float:left;
+}
+.content{
+    width:60%;
+    height:400px;
+    background: rgb(255, 255, 255);
+    float:left;
+}
+.right-div{
+width:20%;
+height:400px;
+background: rgb(255, 255, 255);
+float:left;
+}
+.footer{
+width:100%;
+height:100px;
+background: rgb(255, 255, 255);
+float:left;
+padding-left: 250px;
+}
+.contact{
+padding-left: 100px;
+height:50px;
+width:200px
+}
+.center{
+    padding-left: 200px;
+    padding-top: 70px;
+}
